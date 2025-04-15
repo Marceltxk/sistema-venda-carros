@@ -9,7 +9,7 @@ public class Cliente {
 
     public String getNome() { return nome; }
     public String getTelefone() { return telefone; }
-    public String getEmail() { return email };
+    public String getEmail() { return email; };
 
     public void setNome(String nome)  { this.nome = nome; }
     public void setTelefone(String tel) { this.telefone = tel; }

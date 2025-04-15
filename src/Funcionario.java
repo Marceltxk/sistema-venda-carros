@@ -13,7 +13,7 @@ public class Funcionario {
     public void setNome(String nome) { this.nome = nome; }
     public void setCargo(String cargo) { this.cargo = cargo; }
 
-    public realizarVenda() {
-        
+    public void realizarVenda() {
+
     }
 }

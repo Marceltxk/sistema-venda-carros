@@ -6,7 +6,7 @@ public class Venda {
     private Cliente cliente;
     private String notaFiscal;
 
-    public Venda(data, veiculo, cliente, notaFiscal) {
+    public Venda(LocalDate data, Veiculo veiculo, Cliente cliente, String notaFiscal) {
         this.data = data;
         this.veiculo = veiculo;
         this.cliente = cliente; 
@@ -18,12 +18,12 @@ public class Venda {
     public Cliente getCliente() { return this.cliente; }
     public String getNotaFiscal() { return this.notaFiscal; }
 
-    public realizarVenda() {
+    public void realizarVenda() {
 
     }
 
-    public emitirNotaFiscal() {
-        
+    public String emitirNotaFiscal() {
+
     }
 
 }
