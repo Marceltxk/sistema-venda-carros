@@ -1,3 +1,5 @@
+package com.sistema;
+
 public class Veiculo {
     private String marca, modelo, cor, placa;
     private int ano;

@@ -1,3 +1,5 @@
+package com.sistema;
+
 import java.util.Scanner;
 
 public class Main {

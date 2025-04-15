@@ -1,3 +1,5 @@
+package com.sistema;
+
 public class Cliente {
     private String cpf, nome, telefone, email;
     

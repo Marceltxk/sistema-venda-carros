@@ -1,3 +1,5 @@
+package com.sistema;
+
 import java.time.LocalDate;
 
 public class Venda {
