@@ -1,0 +1,9 @@
+Veículos
+placa,marca,modelo,ano,cor,preco
+ABC0A12,Volkswagen,Golf,2010,preto,40000
+ABC0A23,Chevrolet,Cruze,2015,prata,60000
+
+Clientes
+cpf,nome,telefone,email
+99999999999,Joao,34911111111,joao@email.com 
+11111111111,Maria,34922222222,maria@email.com
